@@ -24,3 +24,7 @@ HOLA MUNDO
 **negrita**
 
 *cursiva*
+
+***cursiva y negrita***
+
+[enlace en línea](http://www.youtube.com)

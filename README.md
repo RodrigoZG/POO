@@ -17,6 +17,6 @@ HOLA MUNDO
 ---
 ~~~
 1. Integrantes:
-   * Elemento de lista 3
-   * Elemento de lista 4
+    * Elemento de lista 3
+    * Elemento de lista 4
 ~~~

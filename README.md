@@ -20,4 +20,7 @@ HOLA MUNDO
     - Elemento de lista 3
     - Elemento de lista 4
 ~~~
-gggg ggggg  gggggg
+
+**negrita**
+
+*cursiva*

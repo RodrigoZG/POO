@@ -2,9 +2,9 @@
 ---
 
 1. **Requisitos**
-    1. Librerías: 
-        -ggggg
-    - Elemento de lista 4
+    - Librerías: 
+      - *ggg*
+    
 
 ~~~
 1. Integrantes:

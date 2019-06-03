@@ -24,11 +24,15 @@
 - Los saltos se realizan de forma horizontal o vertical. Por ello, no pueden realizarse saltos en diagonal.
 - Para ganar la partida se debe dejar sólo una ficha en el tablero.
 - Por lo tanto, se pierde la partida si nos queda más de una ficha y no se tienen más movimientos posibles.
- 
-
-
-
-
-
 ---
-
+3. **INSTRUCCIONES**
+- Ejecutar el programa a través del compilador al que nos lleva el enlace que hay en los requisitos.
+- Al ejecutarlo se mostrará el menú del juego con tres opciones a elegir, cada opción es un escenario/tablero diferente. También, hay incluida una cuarta opción por si lo que se desea es salir del programa. 
+- Una vez elegido el escenario/tablero el programa solicitará la posición (fila y columna) de la ficha que deseamos mover.
+- Después, nos solicitará la posción (fila y columna) a la cual queremos mover la ficha seleccionada.
+- Para realizar los movimientos se deben conocer las reglas del juego, ya que si ingresamos un movimiento prohibido el programa nos indicará mediante un mensaje que volvamos a ingresar la posición.
+- El objetivo es que quedé una sola ficha en el escenario/tablero.
+---
+~~~
+4. **Integrantes**
+- kkskd

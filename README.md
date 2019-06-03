@@ -1,10 +1,10 @@
 ### SENKU!
 ---
-~~~
-1. **Requisitos**:
-    - Elemento de lista 3
+
+**1. Requisitos :**
+    -    Elemento de lista 3
     - Elemento de lista 4
-~~~
+
 ~~~
 1. Integrantes:
     - Elemento de lista 3

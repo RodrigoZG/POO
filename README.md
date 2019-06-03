@@ -34,5 +34,8 @@
 - El objetivo es que quedé una sola ficha en el escenario/tablero.
 ---
 ~~~
-**4. Integrantes**
-- kkskd
+4. INTEGRANTES
+    - Renato
+    - Renato
+    - Mauricio
+    - Rodrigo

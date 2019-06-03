@@ -2,8 +2,8 @@
 ---
 
 1. **REQUISITOS**
-    * Bibliotecas: *Son los archivos que podemos importar e incluir a nuestro programa, ya que estos archivos contienen las especificaciones de diferentes estructuras ya construidas y que podemos utilizar en nuestro programa.*
-      - *<iostream>*
+    + Bibliotecas o librerías: Son los archivos que podemos importar e incluir a nuestro programa, ya que estos archivos contienen las especificaciones de diferentes estructuras ya construidas y que podemos utilizar en nuestro programa.
+      - <*iostream*> : *Es la librería más utilizada e importante, ya que contiene
     
 
 ~~~

@@ -10,18 +10,10 @@
     + ***Condicionales:*** Son las llamadas estructuras de control, con las que definimos una serie de condiciones/circunstancias en nuestro programa para determinar las acciones que se llevarán a cabo.
       - *' **if** (condición){} : Es una estructura de control en la que podemos ingresar distintas instrucciones a ejecutar si es que se cumple la condición definida.* 
       - *' **else** : Esta estructura de control ejecuta las instrucciones ingresadas en caso de que la condición dada en if no se cumpla.*
-    
-
-~~~
-1. Integrantes:
-    - Elemento de lista 3
-    - Elemento de lista 4
-~~~
-
-**negrita**
-
-*cursiva*
-
-***cursiva y negrita***
+    + ***Bucles:*** Son estructuras de control que nos permiten que permiten repetir instrucciones las veces que lo necesitemos, es muy útil porque permite realizar la misma tarea en una cantidad de líneas muy pequeña y de forma automática.
+      - *' **for** : Es una estructura de control que permite ejecutar de manera repetitiva una serie de instrucciones, conociendo previamente un valor de inicio, un valor final y un tamaño de paso.*
+      
+      
+      
 
 [enlace en línea](http://www.youtube.com)

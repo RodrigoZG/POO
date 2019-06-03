@@ -34,5 +34,5 @@
 - El objetivo es que quedé una sola ficha en el escenario/tablero.
 ---
 ~~~
-4. **Integrantes**
+**4. Integrantes**
 - kkskd

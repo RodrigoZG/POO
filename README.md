@@ -2,7 +2,7 @@
 ---
 
 1. **REQUISITOS**
-    + ***Compilador:*** Herramienta necesaria para traducir el lenguaje de programación en un programa.[compilador](https://www.onlinegdb.com/online_c++_compiler)
+    + ***Compilador:*** Herramienta necesaria para traducir el lenguaje de programación en un programa. [compilador c++](https://www.onlinegdb.com/online_c++_compiler)
 
     + ***Bibliotecas o librerías:*** Son los archivos que podemos importar e incluir a nuestro programa, ya que estos archivos contienen las especificaciones de diferentes estructuras de código ya construidas y que podemos utilizar en nuestro programa.
       - <*iostream*> : *Es la librería más utilizada e importante, ya que contiene los algoritmos estándard y forma parte de las STL(Librerías Estandárd de Plantillas).*
@@ -26,4 +26,3 @@
 
 ---
 
-[compilador](https://www.onlinegdb.com/online_c++_compiler)

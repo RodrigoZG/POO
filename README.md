@@ -9,7 +9,7 @@
       - *Función ' **void** ' : Función que ejecuta las instrucciones ingresadas, pero no retorna ningún valor. Aunque, se puede utilizar la sentencia ' return; ' para finalizar la ejecución de la función.*
     + ***Condicionales:*** Son las llamadas estructuras de control, con las que definimos una serie de condiciones/circunstancias en nuestro programa para determinar las acciones que se llevarán a cabo.
       - *' **if** (condición){} : Es una estructura de control en la que podemos ingresar distintas instrucciones a ejecutar si es que se cumple la condición definida.* 
-      - *' **else** : *
+      - *' **else** : Esta estructura de control ejecuta las instrucciones ingresadas en caso de que la condición dada en if no se cumpla.*
     
 
 ~~~

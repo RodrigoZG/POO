@@ -16,9 +16,13 @@
       - *' **for** : Es una estructura de control que permite ejecutar de manera repetitiva una serie de instrucciones, conociendo previamente un valor de inicio, un valor final y un tamaño de paso.*
     + ***Estructuras de datos:*** Son una herramienta que nos permite almacenar de manera ordenada una serie de valores dados dentro de una variable.
       - *' **matrices** : Es una estructura de datos conformada por filas y columnas.*
-
-2. **INSTRUCCIONES DE USO**
-    + 
+---
+2. **REGLAS DEL JUEGO**
+- Una vez elegido el escenario/tablero en el que jugar, se iniciará la partida moviendo estrategicamente una de las fichas al espacio que se encuentre vacío. *De manera obligada para realizar este movimiento se debe comer una ficha.*
+- Para comer una ficha se debe saltar sobre ella a un espacio vacío. La ficha comida se retira del escenario/tablero.
+- Solo se puede saltar sobre una ficha.
+- Los saltos se realizan de forma horizontal o vertical. Por ello, no pueden realizarse saltos en diagonal.
+- Gana si logra dejar sólo una ficha en el tablero. Pierde si no tiene más movimientos posibles.
  
 
 

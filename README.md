@@ -17,8 +17,9 @@
     + ***Estructuras de datos:*** Son una herramienta que nos permite almacenar de manera ordenada una serie de valores dados dentro de una variable.
       - *' **matrices** : Es una estructura de datos conformada por filas y columnas.*
 
-
-
+2. **INSTRUCCIONES DE USO**
+    + 
+ 
 
 
 

@@ -14,6 +14,14 @@
       - *' **for** : Es una estructura de control que permite ejecutar de manera repetitiva una serie de instrucciones, conociendo previamente un valor de inicio, un valor final y un tamaño de paso.*
       
       
-      
+
+
+
+
+
+
+
+
+---
 
 [enlace en línea](http://www.youtube.com)

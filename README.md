@@ -22,7 +22,8 @@
 - Para comer una ficha se debe saltar sobre ella a un espacio vacío. La ficha comida se retira del escenario/tablero.
 - Solo se puede saltar sobre una ficha.
 - Los saltos se realizan de forma horizontal o vertical. Por ello, no pueden realizarse saltos en diagonal.
-- Gana si logra dejar sólo una ficha en el tablero. Pierde si no tiene más movimientos posibles.
+- Para ganar la partida se debe dejar sólo una ficha en el tablero.
+- Por lo tanto, se pierde la partida si nos queda más de una ficha y no se tienen más movimientos posibles.
  
 
 

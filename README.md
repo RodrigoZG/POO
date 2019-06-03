@@ -1,7 +1,7 @@
 ### SENKU!
 ---
 ~~~
-1. Integrantes:
+1. **Requisitos**:
     - Elemento de lista 3
     - Elemento de lista 4
 ~~~

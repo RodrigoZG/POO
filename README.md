@@ -12,8 +12,8 @@
       - *' **else** : Esta estructura de control ejecuta las instrucciones ingresadas en caso de que la condición dada en if no se cumpla.*
     + ***Bucles:*** Son estructuras de control que nos permiten que permiten repetir instrucciones las veces que lo necesitemos, es muy útil porque permite realizar la misma tarea en una cantidad de líneas muy pequeña y de forma automática.
       - *' **for** : Es una estructura de control que permite ejecutar de manera repetitiva una serie de instrucciones, conociendo previamente un valor de inicio, un valor final y un tamaño de paso.*
-      
-      
+    + ***Estructuras de datos:*** Son una herramienta que nos permite almacenar de manera ordenada una serie de valores dados dentro de una variable.
+      - *' **matrices** : Es una estructura de datos conformada por filas y columnas.*
 
 
 
